@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sebastian
+
+A machine learning researcher doing his PhD at the Jožef Stefan Institute in Ljubljana, Slovenia. 
+
+If you want to learn more about me or my research, visit my website [https://smeznar.github.io/](https://smeznar.github.io/) or send me an email (which can be found on my website).
 
 <!--
 **smeznar/smeznar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
